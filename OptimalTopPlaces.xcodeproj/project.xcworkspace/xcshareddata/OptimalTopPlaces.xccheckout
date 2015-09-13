@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84CDCB57-E165-46BD-8E4B-BF0CAEED9F90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OptimalTopPlaces</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6D7280D2D072F1D71CA127039A5173004F40E8A</key>
+		<string>https://github.com/linovate/Stanford_CS193P_2013.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OptimalTopPlaces.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6D7280D2D072F1D71CA127039A5173004F40E8A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/linovate/Stanford_CS193P_2013.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6D7280D2D072F1D71CA127039A5173004F40E8A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6D7280D2D072F1D71CA127039A5173004F40E8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OptimalTopPlaces</string>
+		</dict>
+	</array>
+</dict>
+</plist>
